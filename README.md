@@ -1,8 +1,9 @@
+
 # StylIn, mobile app build in react-native to quick start your ecommerce project 
 
 StyIn, mobile app built using React Native,
 
-![screenshots of example app](/src/assets/images/mockup.png)
+![mockup](https://user-images.githubusercontent.com/52464453/126695607-57f1dad5-1088-44ef-9563-86d0bceacfc6.png)
 
 ## Features
 
