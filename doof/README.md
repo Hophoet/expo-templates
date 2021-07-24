@@ -1,9 +1,11 @@
+![Uploading threed_mockup(39).png…]()
 
 # Doof, mobile app build in react-native to quick start your food selling project 
 
 Doof, mobile app built using React Native,
 
-![mockup](https://user-images.githubusercontent.com/52464453/126695607-57f1dad5-1088-44ef-9563-86d0bceacfc6.png)
+![threed_mockup(38)](https://user-images.githubusercontent.com/52464453/126877392-93233572-5ac4-44ba-9fd4-b180d21ea775.png)
+
 
 ## Features
 
